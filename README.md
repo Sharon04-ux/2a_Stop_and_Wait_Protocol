@@ -1,4 +1,6 @@
-# 2a_Stop_and_Wait_Protocol
+# 2A STOP AND WAIT PROTOCOL
+# NAME : SHARON ARUL BHARATHI J.F
+# REG NO : 212224100056
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -9,6 +11,11 @@ To write a python program to perform stop and wait protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
+![WhatsApp Image 2025-04-12 at 06 02 41_38fc2a16](https://github.com/user-attachments/assets/ca2148be-1591-4e00-a424-c88d0b1b46a0)
+
 ## OUTPUT
+![WhatsApp Image 2025-04-12 at 06 02 55_27bb6531](https://github.com/user-attachments/assets/b862740e-b757-4e11-a19c-adfea0a75509)
+
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
